@@ -5,26 +5,28 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SaveTheHumans"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525">
-	<Grid>
-		<Grid.RowDefinitions>
-			<RowDefinition Height="160" />
-			<RowDefinition Height="160" />
-		</Grid.RowDefinitions>
-		<Grid.ColumnDefinitions>
-			<ColumnDefinition Width="140" />
-			<ColumnDefinition />
-			<ColumnDefinition Width="170" />
-		</Grid.ColumnDefinitions>
-		<Button x:Name="startButton" Content="Button" HorizontalAlignment="Left" Margin="35,65,0,0" VerticalAlignment="Top" Width="75"
-		        Grid.Row="1" />
-		<ProgressBar Grid.Column="1" HorizontalAlignment="Left" Height="10" Margin="50,120,0,0" Grid.Row="1"
-		             VerticalAlignment="Top" Width="100" />
-		<Canvas Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="50,40,0,0" VerticalAlignment="Top"
-		        Width="100" />
-		<TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="78,35,0,0" Grid.Row="1" TextWrapping="Wrap"
-		           Text="TextBlock" VerticalAlignment="Top" />
-		<ContentControl Content="ContentControl" Grid.Column="2" HorizontalAlignment="Left" Margin="46,99,0,0" Grid.Row="1"
-		                VerticalAlignment="Top" />
-	</Grid>
+        Title="Save the Humans" Height="700" Width="1000">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="160" />
+            <RowDefinition Height="160" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="140" />
+            <ColumnDefinition />
+            <ColumnDefinition Width="170" />
+        </Grid.ColumnDefinitions>
+        <Button x:Name="startButton" Content="Start!" HorizontalAlignment="Center" Margin="48,53,45,61"
+                VerticalAlignment="Center"
+                Grid.Row="1" HorizontalContentAlignment="Center" />
+        <ProgressBar Grid.Column="1" HorizontalAlignment="Left" Height="10" Margin="50,120,0,0" Grid.Row="1"
+                     VerticalAlignment="Top" Width="100" />
+        <Canvas Grid.Column="1" HorizontalAlignment="Left" Height="100" Margin="50,40,0,0" VerticalAlignment="Top"
+                Width="100" />
+        <StackPanel Grid.Column="2" Margin="46,41,27,46" Orientation="Vertical" Grid.Row="1">
+            <TextBlock TextWrapping="Wrap" FontSize="18" ><Run Text="Avoid These"/><LineBreak/><Run/></TextBlock>
+            <ContentControl Content="ContentControl" HorizontalAlignment="Center"
+                VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" />
+        </StackPanel>
+    </Grid>
 </Window>
