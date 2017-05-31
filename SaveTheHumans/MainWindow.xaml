@@ -32,7 +32,7 @@
         </Grid.ColumnDefinitions>
         <Button x:Name="StartButton" Content="Start!" HorizontalAlignment="Center" Margin="66,70,70,68"
                 VerticalAlignment="Center" HorizontalContentAlignment="Center" Grid.Row="1" Click="StartButton_Click" />
-        <ProgressBar Grid.Column="1" Grid.Row="1" Height="20" />
+        <ProgressBar x:Name="ProgressBar" Grid.Column="1" Grid.Row="1" Height="20" />
         <Canvas x:Name="PlayArea" Grid.ColumnSpan="3">
             <Canvas.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">

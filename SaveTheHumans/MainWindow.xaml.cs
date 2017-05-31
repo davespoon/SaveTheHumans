@@ -13,6 +13,7 @@ using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Windows.Threading;
 
 namespace SaveTheHumans
 {
@@ -22,10 +23,42 @@ namespace SaveTheHumans
     public partial class MainWindow : Window
     {
         Random _random = new Random();
+        DispatcherTimer _enemyTimer = new DispatcherTimer();
+        DispatcherTimer _targetTimer = new DispatcherTimer();
+        private bool _humanIsCaptured = false;
 
         public MainWindow()
         {
             InitializeComponent();
+
+            _enemyTimer.Tick += EnemyTimer_Tick;
+            _enemyTimer.Interval = TimeSpan.FromSeconds(2);
+
+            _targetTimer.Tick += TargetTimer_Tick;
+            _targetTimer.Interval += TimeSpan.FromSeconds(0.1);
+        }
+
+        private void EnemyTimer_Tick(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void TargetTimer_Tick(object sender, EventArgs e)
+        {
+            ProgressBar.Value += 1;
+            if (ProgressBar.Value >= ProgressBar.Maximum) EndTheGame();
+        }
+
+        private void EndTheGame()
+        {
+            if (!PlayArea.Children.Contains(GameOverText))
+            {
+                _enemyTimer.Stop();
+                _targetTimer.Stop();
+                _humanIsCaptured = false;
+                StartButton.Visibility = Visibility.Visible;
+                PlayArea.Children.Add(GameOverText);
+            }
         }
 
         private void StartButton_Click(object sender, RoutedEventArgs e)
