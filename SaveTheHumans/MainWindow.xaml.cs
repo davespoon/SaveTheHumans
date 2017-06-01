@@ -116,7 +116,16 @@ namespace SaveTheHumans
 
         private void Target_MouseEnter(object sender, MouseEventArgs e)
         {
-
+            if (_targetTimer.IsEnabled && _humanIsCaptured)
+            {
+                ProgressBar.Value = 0;
+                Canvas.SetLeft(Target, _random.Next((int)PlayArea.ActualWidth - 100));
+                Canvas.SetTop(Target, _random.Next((int)PlayArea.ActualHeight - 100));
+                Canvas.SetLeft(Human, _random.Next((int)PlayArea.ActualWidth - 100));
+                Canvas.SetTop(Human, _random.Next((int)PlayArea.ActualHeight - 100));
+                _humanIsCaptured = false;
+                Human.IsHitTestVisible = true;
+            }
         }
     }
 }
