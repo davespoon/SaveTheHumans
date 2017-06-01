@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4df07d75-a071-4d25-89b3-1ac8cb32a7a6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SaveTheHumans/.idea/contentModel.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SaveTheHumans/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SaveTheHumans/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.SaveTheHumans/riderModule.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/bin/Debug/SaveTheHumans.exe" afterPath="$PROJECT_DIR$/SaveTheHumans/bin/Debug/SaveTheHumans.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/bin/Debug/SaveTheHumans.pdb" afterPath="$PROJECT_DIR$/SaveTheHumans/bin/Debug/SaveTheHumans.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/CoreCompileInputs.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.baml" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.baml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.csproj.GenerateResource.Cache" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.csproj.GenerateResource.Cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.exe" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.exe" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.g.resources" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.g.resources" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.pdb" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.pdb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans_MarkupCompile.cache" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans_MarkupCompile.cache" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/App.g.cs" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/App.g.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/App.g.i.cs" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/App.g.i.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.g.cs" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.g.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.g.i.cs" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/MainWindow.g.i.cs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans.csproj.FileListAbsolute.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans_MarkupCompile.lref" afterPath="$PROJECT_DIR$/SaveTheHumans/obj/Debug/SaveTheHumans_MarkupCompile.lref" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="SaveTheHumans" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="App.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveTheHumans/App.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496043224480" expanded="true" signature="0:367" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+                <marker date="1496043224480" expanded="true" signature="290:352" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SaveTheHumans/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-609">
+              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+              <folding>
+                <marker date="1496236212237" expanded="true" signature="0:4242" ph="&lt;&lt;Window.Resources&gt;&#10;        &lt;ControlTemplate x:Key=&quot;EnemyTemplate&quot; TargetType=&quot;{x:Type ContentControl}&quot;&gt;&#10;            &lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/ControlTemplate&gt;&#10;    &lt;/Window.Resources&gt; &lt;Grid Background=&quot;Black&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition Height=&quot;160&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;            &lt;ColumnDefinition /&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Button x:Name=&quot;StartButton&quot; Content=&quot;Start!&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;66,70,70,68&quot;&#10;                VerticalAlignment=&quot;Center&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Row=&quot;1&quot; Click=&quot;StartButton_Click&quot; /&gt;&#10;        &lt;ProgressBar x:Name=&quot;ProgressBar&quot; Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;20&quot; /&gt;&#10;        &lt;Canvas x:Name=&quot;PlayArea&quot; Grid.ColumnSpan=&quot;3&quot;&gt;&#10;            &lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt;&#10;            &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt;&#10;            &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;&#10;        &lt;/Canvas&gt;&#10;        &lt;StackPanel Grid.Column=&quot;2&quot; Orientation=&quot;Vertical&quot; Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&gt;&#10;            &lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt;&#10;            &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;&#10;        &lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="466:1119" ph="&lt;&lt;ControlTemplate x:Key=&quot;EnemyTemplate&quot; TargetType=&quot;{x:Type ContentControl}&quot;&gt;&#10;            &lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/ControlTemplate&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="493:1095" ph="&lt;&lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="582:1068" ph="&lt;&lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="624:1048" ph="&lt;&lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="694:1021" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="733:985" ph="&lt;&lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1124:4232" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition Height=&quot;160&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;            &lt;ColumnDefinition /&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Button x:Name=&quot;StartButton&quot; Content=&quot;Start!&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;66,70,70,68&quot;&#10;                VerticalAlignment=&quot;Center&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Row=&quot;1&quot; Click=&quot;StartButton_Click&quot; /&gt; &lt;ProgressBar x:Name=&quot;ProgressBar&quot; Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;20&quot; /&gt; &lt;Canvas x:Name=&quot;PlayArea&quot; Grid.ColumnSpan=&quot;3&quot;&gt;&#10;            &lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt;&#10;            &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt;&#10;            &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;&#10;        &lt;/Canvas&gt; &lt;StackPanel Grid.Column=&quot;2&quot; Orientation=&quot;Vertical&quot; Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&gt;&#10;            &lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt;&#10;            &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1158:1283" ph="&lt;&lt;RowDefinition /&gt; &lt;RowDefinition Height=&quot;160&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1292:1473" ph="&lt;&lt;ColumnDefinition Width=&quot;170&quot; /&gt; &lt;ColumnDefinition /&gt; &lt;ColumnDefinition Width=&quot;170&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1482:1698" ph="&lt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1793:3456" ph="&lt;&lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt; &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt; &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt; &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1852:2149" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="1888:2116" ph="&lt;&lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="2162:2403" ph="&lt;&lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt; &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="2416:2581" ph="&lt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="2594:3438" ph="&lt;&lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt; &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="2751:3085" ph="&lt;&lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="2799:3040" ph="&lt;&lt;ScaleTransform /&gt; &lt;SkewTransform /&gt; &lt;RotateTransform Angle=&quot;45&quot; /&gt; &lt;TranslateTransform /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="3102:3413" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="3139:3379" ph="&lt;&lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="3465:4220" ph="&lt;&lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt; &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="3618:3861" ph="&lt;&lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;.../&gt;" />
+                <marker date="1496236212237" expanded="true" signature="3874:4198" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SaveTheHumans/MainWindow.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-381">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1496235950625" expanded="false" signature="6:451" ph="..." />
+                <marker date="1496235950625" expanded="true" signature="476:3122" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="483:561" ph="/// Interaction logic for MainWindow.xaml ... " />
+                <marker date="1496235950625" expanded="true" signature="606:3120" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="850:1131" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1197:1266" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1333:1461" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1496:1832" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1565:1822" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1906:1950" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="1983:2422" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="2529:3114" ph="{...}" />
+                <marker date="1496235950625" expanded="true" signature="2730:2881" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MainWindow.xaml" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="App.xaml" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans (1 project)" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SaveTheHumans" />
+              <option name="myItemType" value="com.jetbrains.resharper.projectView.solutionExplorer.SolutionExplorerNodeRider" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.Default">
+    <configuration default="true" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="" />
+      <option name="PROJECT_KIND" value="None" />
+      <option name="PROJECT_TFM" value="" />
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/SaveTheHumans/SaveTheHumans.csproj" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5.2" />
+      <option name="EXE_PATH" value="$PROJECT_DIR$/SaveTheHumans/bin/Debug/SaveTheHumans.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SaveTheHumans/bin/Debug" />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue=".NET Project.Default" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4df07d75-a071-4d25-89b3-1ac8cb32a7a6" name="Default" comment="" />
+      <created>1496299057997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496299057997</updated>
+      <workItem from="1496299099610" duration="1625000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1625000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24040511" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Change Signature" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24040511" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SaveTheHumans/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496043224480" expanded="true" signature="0:367" ph="&lt;&lt;Application.Resources&gt;&#10;         &#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1496043224480" expanded="true" signature="290:352" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveTheHumans/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-381">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1496235950625" expanded="false" signature="6:451" ph="..." />
+            <marker date="1496235950625" expanded="true" signature="476:3122" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="483:561" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1496235950625" expanded="true" signature="606:3120" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="850:1131" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1197:1266" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1333:1461" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1496:1832" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1565:1822" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1906:1950" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="1983:2422" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="2529:3114" ph="{...}" />
+            <marker date="1496235950625" expanded="true" signature="2730:2881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SaveTheHumans/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-609">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <marker date="1496236212237" expanded="true" signature="0:4242" ph="&lt;&lt;Window.Resources&gt;&#10;        &lt;ControlTemplate x:Key=&quot;EnemyTemplate&quot; TargetType=&quot;{x:Type ContentControl}&quot;&gt;&#10;            &lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/ControlTemplate&gt;&#10;    &lt;/Window.Resources&gt; &lt;Grid Background=&quot;Black&quot;&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition Height=&quot;160&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;            &lt;ColumnDefinition /&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Button x:Name=&quot;StartButton&quot; Content=&quot;Start!&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;66,70,70,68&quot;&#10;                VerticalAlignment=&quot;Center&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Row=&quot;1&quot; Click=&quot;StartButton_Click&quot; /&gt;&#10;        &lt;ProgressBar x:Name=&quot;ProgressBar&quot; Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;20&quot; /&gt;&#10;        &lt;Canvas x:Name=&quot;PlayArea&quot; Grid.ColumnSpan=&quot;3&quot;&gt;&#10;            &lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt;&#10;            &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt;&#10;            &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;&#10;        &lt;/Canvas&gt;&#10;        &lt;StackPanel Grid.Column=&quot;2&quot; Orientation=&quot;Vertical&quot; Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&gt;&#10;            &lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt;&#10;            &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;&#10;        &lt;/StackPanel&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="466:1119" ph="&lt;&lt;ControlTemplate x:Key=&quot;EnemyTemplate&quot; TargetType=&quot;{x:Type ContentControl}&quot;&gt;&#10;            &lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/ControlTemplate&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="493:1095" ph="&lt;&lt;Grid d:IsHidden=&quot;False&quot;&gt;&#10;                &lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="582:1068" ph="&lt;&lt;Ellipse Height=&quot;100&quot; Stroke=&quot;Black&quot; Width=&quot;100&quot;&gt;&#10;                    &lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;&#10;                &lt;/Ellipse&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="624:1048" ph="&lt;&lt;Ellipse.Fill&gt;&#10;                        &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;&#10;                    &lt;/Ellipse.Fill&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="694:1021" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                            &lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt;&#10;                            &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;&#10;                        &lt;/LinearGradientBrush&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="733:985" ph="&lt;&lt;GradientStop Color=&quot;##FFBB1818&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FFB92020&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1124:4232" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition /&gt;&#10;            &lt;RowDefinition Height=&quot;160&quot; /&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;            &lt;ColumnDefinition /&gt;&#10;            &lt;ColumnDefinition Width=&quot;170&quot; /&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Button x:Name=&quot;StartButton&quot; Content=&quot;Start!&quot; HorizontalAlignment=&quot;Center&quot; Margin=&quot;66,70,70,68&quot;&#10;                VerticalAlignment=&quot;Center&quot; HorizontalContentAlignment=&quot;Center&quot; Grid.Row=&quot;1&quot; Click=&quot;StartButton_Click&quot; /&gt; &lt;ProgressBar x:Name=&quot;ProgressBar&quot; Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot; Height=&quot;20&quot; /&gt; &lt;Canvas x:Name=&quot;PlayArea&quot; Grid.ColumnSpan=&quot;3&quot;&gt;&#10;            &lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt;&#10;            &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt;&#10;            &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt;&#10;            &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;&#10;        &lt;/Canvas&gt; &lt;StackPanel Grid.Column=&quot;2&quot; Orientation=&quot;Vertical&quot; Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&gt;&#10;            &lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt;&#10;            &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;&#10;        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1158:1283" ph="&lt;&lt;RowDefinition /&gt; &lt;RowDefinition Height=&quot;160&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1292:1473" ph="&lt;&lt;ColumnDefinition Width=&quot;170&quot; /&gt; &lt;ColumnDefinition /&gt; &lt;ColumnDefinition Width=&quot;170&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1482:1698" ph="&lt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1793:3456" ph="&lt;&lt;Canvas.Background&gt;&#10;                &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;&#10;            &lt;/Canvas.Background&gt; &lt;StackPanel x:Name=&quot;human&quot; Orientation=&quot;Vertical&quot; Canvas.Left=&quot;476&quot; Canvas.Top=&quot;237&quot;&gt;&#10;                &lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt;&#10;                &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;&#10;            &lt;/StackPanel&gt; &lt;TextBlock x:Name=&quot;GameOverText&quot; Canvas.Left=&quot;307&quot; TextWrapping=&quot;Wrap&quot; Text=&quot;Game Over&quot; Canvas.Top=&quot;134&quot;&#10;                       FontFamily=&quot;Aharoni&quot; FontSize=&quot;72&quot; /&gt; &lt;Rectangle x:Name=&quot;Target&quot; Height=&quot;50&quot; Canvas.Left=&quot;691&quot; Canvas.Top=&quot;378&quot; Width=&quot;50&quot;&#10;                       RenderTransformOrigin=&quot;0.5,0.5&quot;&gt;&#10;                &lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt;&#10;                &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;&#10;            &lt;/Rectangle&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1852:2149" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                    &lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt;&#10;                    &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;&#10;                &lt;/LinearGradientBrush&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="1888:2116" ph="&lt;&lt;GradientStop Color=&quot;##FFB685F0&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FF1D122B&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="2162:2403" ph="&lt;&lt;Ellipse Fill=&quot;White&quot; Height=&quot;10&quot; Width=&quot;10&quot; /&gt; &lt;Rectangle Fill=&quot;White&quot; Height=&quot;25&quot; Width=&quot;10&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="2416:2581" ph="&lt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="2594:3438" ph="&lt;&lt;Rectangle.RenderTransform&gt;&#10;                    &lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;&#10;                &lt;/Rectangle.RenderTransform&gt; &lt;Rectangle.Fill&gt;&#10;                    &lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;&#10;                &lt;/Rectangle.Fill&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="2751:3085" ph="&lt;&lt;TransformGroup&gt;&#10;                        &lt;ScaleTransform /&gt;&#10;                        &lt;SkewTransform /&gt;&#10;                        &lt;RotateTransform Angle=&quot;45&quot; /&gt;&#10;                        &lt;TranslateTransform /&gt;&#10;                    &lt;/TransformGroup&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="2799:3040" ph="&lt;&lt;ScaleTransform /&gt; &lt;SkewTransform /&gt; &lt;RotateTransform Angle=&quot;45&quot; /&gt; &lt;TranslateTransform /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="3102:3413" ph="&lt;&lt;LinearGradientBrush EndPoint=&quot;0.5,1&quot; StartPoint=&quot;0.5,0&quot;&gt;&#10;                        &lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt;&#10;                        &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;&#10;                    &lt;/LinearGradientBrush&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="3139:3379" ph="&lt;&lt;GradientStop Color=&quot;##FF22F522&quot; Offset=&quot;0&quot; /&gt; &lt;GradientStop Color=&quot;##FFC0DA1A&quot; Offset=&quot;1&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="3465:4220" ph="&lt;&lt;TextBlock TextWrapping=&quot;Wrap&quot; FontSize=&quot;18&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot;&#10;                       Height=&quot;38&quot; Foreground=&quot;White&quot;&gt;&#10;                &lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;&#10;            &lt;/TextBlock&gt; &lt;ContentControl Content=&quot;ContentControl&quot; HorizontalAlignment=&quot;Center&quot;&#10;                            VerticalAlignment=&quot;Center&quot; VerticalContentAlignment=&quot;Center&quot; Margin=&quot;10,0&quot;&#10;                            HorizontalContentAlignment=&quot;Center&quot; FontSize=&quot;14&quot;&#10;                            Template=&quot;{DynamicResource EnemyTemplate}&quot; /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="3618:3861" ph="&lt;&lt;Run Text=&quot;Avoid These&quot; /&gt;&lt;LineBreak /&gt;&lt;Run /&gt;.../&gt;" />
+            <marker date="1496236212237" expanded="true" signature="3874:4198" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

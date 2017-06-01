@@ -40,7 +40,7 @@ namespace SaveTheHumans
 
         private void EnemyTimer_Tick(object sender, EventArgs e)
         {
-            throw new NotImplementedException();
+            AddEnemy();
         }
 
         private void TargetTimer_Tick(object sender, EventArgs e)
@@ -49,21 +49,10 @@ namespace SaveTheHumans
             if (ProgressBar.Value >= ProgressBar.Maximum) EndTheGame();
         }
 
-        private void EndTheGame()
-        {
-            if (!PlayArea.Children.Contains(GameOverText))
-            {
-                _enemyTimer.Stop();
-                _targetTimer.Stop();
-                _humanIsCaptured = false;
-                StartButton.Visibility = Visibility.Visible;
-                PlayArea.Children.Add(GameOverText);
-            }
-        }
 
         private void StartButton_Click(object sender, RoutedEventArgs e)
         {
-            AddEnemy();
+            StartGame();
         }
 
         private void AddEnemy()
@@ -89,6 +78,45 @@ namespace SaveTheHumans
             Storyboard.SetTargetProperty(animation, new PropertyPath(propertyToAnimate));
             storyboard.Children.Add(animation);
             storyboard.Begin();
+        }
+
+        private void StartGame()
+        {
+            Human.IsHitTestVisible = true;
+            _humanIsCaptured = false;
+            ProgressBar.Value = 0;
+            StartButton.Visibility = Visibility.Collapsed;
+            PlayArea.Children.Clear();
+            PlayArea.Children.Add(Target);
+            PlayArea.Children.Add(Human);
+            _enemyTimer.Start();
+            _targetTimer.Start();
+        }
+
+        private void EndTheGame()
+        {
+            if (!PlayArea.Children.Contains(GameOverText))
+            {
+                _enemyTimer.Stop();
+                _targetTimer.Stop();
+                _humanIsCaptured = false;
+                StartButton.Visibility = Visibility.Visible;
+                PlayArea.Children.Add(GameOverText);
+            }
+        }
+
+        private void Human_MouseDown(object sender, MouseButtonEventArgs e)
+        {
+            if (_enemyTimer.IsEnabled)
+            {
+                _humanIsCaptured = true;
+                Human.IsHitTestVisible = false;
+            }
+        }
+
+        private void Target_MouseEnter(object sender, MouseEventArgs e)
+        {
+
         }
     }
 }
