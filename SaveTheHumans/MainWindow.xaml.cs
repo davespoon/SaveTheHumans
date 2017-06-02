@@ -63,6 +63,12 @@ namespace SaveTheHumans
             AnimateEnemy(enemy, _random.Next((int) PlayArea.ActualHeight - 100),
                 _random.Next((int) PlayArea.ActualHeight - 100), "(Canvas.Top)");
             PlayArea.Children.Add(enemy);
+            enemy.MouseEnter += Enemy_MouseEnter;
+        }
+
+        private void Enemy_MouseEnter(object sender, MouseEventArgs e)
+        {
+            if (_humanIsCaptured) EndTheGame();
         }
 
         private void AnimateEnemy(ContentControl enemy, double from, double to, string propertyToAnimate)
@@ -119,13 +125,38 @@ namespace SaveTheHumans
             if (_targetTimer.IsEnabled && _humanIsCaptured)
             {
                 ProgressBar.Value = 0;
-                Canvas.SetLeft(Target, _random.Next((int)PlayArea.ActualWidth - 100));
-                Canvas.SetTop(Target, _random.Next((int)PlayArea.ActualHeight - 100));
-                Canvas.SetLeft(Human, _random.Next((int)PlayArea.ActualWidth - 100));
-                Canvas.SetTop(Human, _random.Next((int)PlayArea.ActualHeight - 100));
+                Canvas.SetLeft(Target, _random.Next((int) PlayArea.ActualWidth - 100));
+                Canvas.SetTop(Target, _random.Next((int) PlayArea.ActualHeight - 100));
+                Canvas.SetLeft(Human, _random.Next((int) PlayArea.ActualWidth - 100));
+                Canvas.SetTop(Human, _random.Next((int) PlayArea.ActualHeight - 100));
                 _humanIsCaptured = false;
                 Human.IsHitTestVisible = true;
             }
+        }
+
+        private void PlayArea_MouseMove(object sender, MouseEventArgs e)
+        {
+            if (_humanIsCaptured)
+            {
+                Point pointerPosition = e.GetPosition(null);
+                Point relativePosition = Grid.TransformToVisual(PlayArea).Transform(pointerPosition);
+                if ((Math.Abs(relativePosition.X - Canvas.GetLeft(Human)) > Human.ActualWidth * 3) ||
+                    (Math.Abs(relativePosition.Y - Canvas.GetTop(Human)) > Human.ActualHeight * 3))
+                {
+                    _humanIsCaptured = false;
+                    Human.IsHitTestVisible = true;
+                }
+                else
+                {
+                    Canvas.SetLeft(Human, relativePosition.X - Human.ActualWidth / 2);
+                    Canvas.SetTop(Human, relativePosition.Y - Human.ActualHeight / 2);
+                }
+            }
+        }
+
+        private void PlayArea_MouseLeave(object sender, MouseEventArgs e)
+        {
+            if (_humanIsCaptured) EndTheGame();
         }
     }
 }
